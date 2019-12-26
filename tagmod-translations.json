@@ -1,4 +1,266 @@
 ﻿{
+	 "ko": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "새로운 게임"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "퍼블리셔 계약"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "게임 계약"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "주제와 장르"
+			},
+			{
+				"value": "Topic",
+				"translation": "주제"
+			},
+			{
+				"value": "Genre",
+				"translation": "장르"
+			},
+			{
+				"value": "Game Size",
+				"translation": "게임 크기"
+			},
+			{
+				"value": "Royalties",
+				"translation": "로열티"
+			},
+			{
+				"value": "Penalty",
+				"translation": "페널티"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "선금"
+			},
+			{
+				"value": "No License",
+				"translation": "라이선스 없음"
+			},
+			{
+				"value": "Money",
+				"translation": "비용"
+			},
+			{
+				"value": "Payroll",
+				"translation": "수익"
+			},
+			{
+				"value": "Games",
+				"translation": "게임"
+			},
+			{
+				"value": "Consoles",
+				"translation": "콘솔"
+			},
+			{
+				"value": "Weekly",
+				"translation": "주간"
+			},
+			{
+				"value": "Monthly",
+				"translation": "월간"
+			},
+			{
+				"value": "Annually",
+				"translation": "연간"
+			},
+			{
+				"value": "Level",
+				"translation": "레벨"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "특성화 없음"
+			},
+			{
+				"value": "Energy",
+				"translation": "기력"
+			},
+			{
+				"value": "Game History",
+				"translation": "게임 기록"
+			},
+			{
+				"value": "Game Info",
+				"translation": "게임 정보"
+			},
+			{
+				"value": "Development",
+				"translation": "개발"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "현재 엔진"
+			},
+			{
+				"value": "No Engine",
+				"translation": "엔진 없음"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "대사"
+			},
+			{
+				"value": "Statistics",
+				"translation": "수치"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "판매 수"
+			},
+			{
+				"value": "Costs",
+				"translation": "비용"
+			},
+			{
+				"value": "Revenue",
+				"translation": "수익"
+			},
+			{
+				"value": "Released",
+				"translation": "출시일"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "최대 판매 랭크"
+			},
+			{
+				"value": "Platforms",
+				"translation": "플랫폼"
+			},
+			{
+				"value": "Stage",
+				"translation": "스테이지"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "페이즈 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "페이즈 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "페이즈 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "시간 배정"
+			},
+			{
+				"value": "Features",
+				"translation": "기능"
+			},
+			{
+				"value": "Cost",
+				"translation": "비용"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "최종 스코어"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "개발 비용"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "팬 획득"
+			},
+			{
+				"value": "Time",
+				"translation": "시간"
+			},
+			{
+				"value": "Pay",
+				"translation": "월급"
+			},
+			{
+				"value": "Salary",
+				"translation": "연봉"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "정보와 스탯"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "보고서 작성"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "개발 비용"
+			},
+			{
+				"value": "License Cost",
+				"translation": "라이선스 비용"
+			},
+			{
+				"value": "Market Share",
+				"translation": "시장 점유율"
+			},
+			{
+				"value": "Rating",
+				"translation": "등급"
+			},
+			{
+				"value": "Profit",
+				"translation": "수익"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "먼저 보고서를 작성해야 합니다."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "보고서를 작성할 수 있는 시간이 지났습니다."
+			},
+			{
+				"value": "Insights",
+				"translation": "Insights"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "엔진 개발"
+			},
+			{
+				"value": "Budget",
+				"translation": "비용"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "직원을 선택하세요"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "엔진을 선택하세요"
+			},
+						{
+				"value": "Develop Expansion Pack",
+				"translation": "확장팩 개발"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "A{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "A{0} М{1}"
+			}
+		]
+	},
 	"zhcn": {
 		"values":[
 			{
